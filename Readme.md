@@ -3,7 +3,8 @@
 The **Kronos Cluster** is a custom-engineered, multi-module Raspberry Pi (3/4/5) server cluster node designed for localized edge computing, localized AI workloads, and network-attached storage (NAS). This repository contains the complete production-ready blueprints, technical schematics, wiring layouts, and 3D-printable housing architecture.
 
 🔗 **Project Phase:** Blueprint & Hardware Engineering Specification (v4.2.1)
-Note: Structural blueprints and cross-sections were AI-assisted to conceptualize and visualize the technical specifications.
+
+* Note: Structural blueprints and cross-sections were AI-assisted to conceptualize and visualize the technical specifications. The Final Design is subject to changes during the Design process
 
 ---
 
